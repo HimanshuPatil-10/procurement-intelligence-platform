@@ -16,7 +16,7 @@ services:
     healthCheckPath: /health
     autoDeploy: true
 
-# Optional: Deploy Streamlit dashboard on Render too
+  # Deploy Streamlit dashboard on Render too
   - type: web
     name: procurement-dashboard
     runtime: python
