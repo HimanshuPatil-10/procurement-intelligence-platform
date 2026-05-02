@@ -1,0 +1,9 @@
+Supplier_ID,Supplier_Name,Category,Contact_Person,Email,Phone,Address,City,State,Country,Contract_Start_Date,Contract_End_Date,Payment_Terms,Rating,Active
+SUP-001,TechCorp Solutions,Hardware,John Smith,john.smith@techcorp.com,555-0101,123 Tech Street,San Francisco,CA,USA,2024-01-01,2024-12-31,Net 30,4.5,Yes
+SUP-002,OfficeSupply Co.,Office Supplies,Emily Johnson,emily@officesupply.com,555-0102,456 Office Park,Dallas,TX,USA,2024-01-01,2024-12-31,Net 45,4.2,Yes
+SUP-003,Marketing Pro,Marketing Materials,Michael Brown,michael@marketingpro.com,555-0103,789 Marketing Ave,New York,NY,USA,2024-01-01,2024-12-31,Net 30,4.7,Yes
+SUP-004,Cloud Services Inc.,Services,David Davis,david@cloudservices.com,555-0104,321 Cloud Way,Seattle,WA,USA,2024-01-01,2024-12-31,Net 15,4.8,Yes
+SUP-005,Hardware Hub,Hardware,Lisa Wilson,lisa@hardwarehub.com,555-0105,654 Hardware Blvd,Chicago,IL,USA,2024-01-01,2024-12-31,Net 30,4.3,Yes
+SUP-006,Software Systems,Software,James Moore,james@softwaresystems.com,555-0106,987 Software Drive,Boston,MA,USA,2024-01-01,2024-12-31,Net 30,4.6,Yes
+SUP-007,Consulting Group,Services,Patricia Taylor,patricia@consultinggroup.com,555-0107,147 Consulting Lane,Los Angeles,CA,USA,2024-01-01,2024-12-31,Net 45,4.4,Yes
+SUP-008,Facility Management,Services,Robert Anderson,robert@facilitymgmt.com,555-0108,258 Facility Road,Houston,TX,USA,2024-01-01,2024-12-31,Net 30,4.1,Yes

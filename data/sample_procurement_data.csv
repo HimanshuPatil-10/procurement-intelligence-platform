@@ -1,0 +1,51 @@
+Order_ID,Date,Delivery_Date,Department,Supplier,Category,Item_Description,Quantity,Unit_Price,Amount,Status,Priority,Lead_Time,Approved_By,Contract_ID
+ORD-000001,2024-01-15,2024-01-25,IT,TechCorp Solutions,Hardware,Laptop Computer,5,1200.00,6000.00,Completed,High,10,John Doe,CONTRACT-1234
+ORD-000002,2024-01-16,2024-01-28,Marketing,Marketing Pro,Marketing Materials,Brochures,100,15.50,1550.00,Completed,Medium,12,Jane Smith,CONTRACT-2345
+ORD-000003,2024-01-17,2024-02-05,Operations,OfficeSupply Co.,Office Supplies,Desk Chairs,20,250.00,5000.00,Completed,Medium,19,Mike Johnson,CONTRACT-3456
+ORD-000004,2024-01-18,2024-01-30,Sales,Cloud Services Inc.,Services,Cloud Storage Subscription,1,5000.00,5000.00,Pending,High,12,Sarah Williams,CONTRACT-4567
+ORD-000005,2024-01-19,2024-02-02,HR,Consulting Group,Services,HR Consulting,10,300.00,3000.00,Completed,Medium,14,John Doe,CONTRACT-5678
+ORD-000006,2024-01-20,2024-02-10,Finance,Software Systems,Software,Accounting Software,2,2500.00,5000.00,Completed,High,21,Jane Smith,CONTRACT-6789
+ORD-000007,2024-01-21,2024-02-01,Legal,Hardware Hub,Hardware,Printers,3,800.00,2400.00,Completed,Low,11,Mike Johnson,CONTRACT-7890
+ORD-000008,2024-01-22,2024-02-15,IT,TechCorp Solutions,Software,Antivirus Software,50,75.00,3750.00,Completed,Medium,24,Sarah Williams,CONTRACT-8901
+ORD-000009,2024-01-23,2024-02-08,Marketing,Marketing Pro,Services,Marketing Campaign,1,15000.00,15000.00,Completed,High,16,John Doe,CONTRACT-9012
+ORD-000010,2024-01-24,2024-02-05,Operations,Facility Management,Services,Cleaning Services,1,3000.00,3000.00,Completed,Low,12,Jane Smith,CONTRACT-0123
+ORD-000011,2024-01-25,2024-02-18,Sales,OfficeSupply Co.,Office Supplies,Sales Forms,500,5.00,2500.00,Completed,Low,24,Mike Johnson,CONTRACT-1123
+ORD-000012,2024-01-26,2024-02-10,HR,Cloud Services Inc.,Services,HR Software,1,8000.00,8000.00,Pending,High,15,Sarah Williams,CONTRACT-2234
+ORD-000013,2024-01-27,2024-02-14,IT,Software Systems,Software,Development Tools,5,1200.00,6000.00,Completed,Medium,18,John Doe,CONTRACT-3345
+ORD-000014,2024-01-28,2024-02-20,Marketing,Marketing Pro,Marketing Materials,Trade Show Booth,1,12000.00,12000.00,Completed,High,23,Jane Smith,CONTRACT-4456
+ORD-000015,2024-01-29,2024-02-12,Operations,Hardware Hub,Hardware,Server Equipment,2,8000.00,16000.00,Completed,High,14,Mike Johnson,CONTRACT-5567
+ORD-000016,2024-01-30,2024-02-25,Finance,Consulting Group,Services,Financial Consulting,20,400.00,8000.00,Completed,Medium,26,Sarah Williams,CONTRACT-6678
+ORD-000017,2024-01-31,2024-02-18,Legal,TechCorp Solutions,Software,Legal Software,3,1500.00,4500.00,Completed,Medium,18,John Doe,CONTRACT-7789
+ORD-000018,2024-02-01,2024-02-15,IT,Cloud Services Inc.,Services,Cloud Backup,1,6000.00,6000.00,Completed,Medium,14,Jane Smith,CONTRACT-8890
+ORD-000019,2024-02-02,2024-02-28,Marketing,OfficeSupply Co.,Office Supplies,Marketing Materials,200,25.00,5000.00,Completed,Medium,26,Mike Johnson,CONTRACT-9901
+ORD-000020,2024-02-03,2024-02-24,Operations,Facility Management,Services,Maintenance,1,4000.00,4000.00,Pending,Medium,21,Sarah Williams,CONTRACT-1012
+ORD-000021,2024-02-04,2024-03-01,Sales,Software Systems,Software,CRM Software,10,800.00,8000.00,Completed,High,25,John Doe,CONTRACT-2123
+ORD-000022,2024-02-05,2024-02-25,HR,Hardware Hub,Hardware,Office Computers,10,900.00,9000.00,Completed,Medium,20,Jane Smith,CONTRACT-3234
+ORD-000023,2024-02-06,2024-03-05,IT,TechCorp Solutions,Hardware,Network Equipment,5,2000.00,10000.00,Completed,High,27,Mike Johnson,CONTRACT-4345
+ORD-000024,2024-02-07,2024-02-28,Marketing,Marketing Pro,Services,Digital Marketing,1,10000.00,10000.00,Completed,High,21,Sarah Williams,CONTRACT-5456
+ORD-000025,2024-02-08,2024-03-02,Operations,OfficeSupply Co.,Office Supplies,Storage Solutions,15,300.00,4500.00,Completed,Medium,22,John Doe,CONTRACT-6567
+ORD-000026,2024-02-09,2024-03-01,Finance,Cloud Services Inc.,Services,Financial Cloud Services,1,12000.00,12000.00,Completed,High,20,Jane Smith,CONTRACT-7678
+ORD-000027,2024-02-10,2024-03-08,Legal,Consulting Group,Services,Legal Consulting,5,1000.00,5000.00,Completed,Medium,26,Mike Johnson,CONTRACT-8789
+ORD-000028,2024-02-11,2024-03-05,IT,Software Systems,Software,Security Software,8,750.00,6000.00,Completed,Medium,22,Sarah Williams,CONTRACT-9890
+ORD-000029,2024-02-12,2024-02-26,Marketing,Hardware Hub,Hardware,Digital Cameras,3,1500.00,4500.00,Completed,Medium,14,John Doe,CONTRACT-0901
+ORD-000030,2024-02-13,2024-03-10,Operations,Facility Management,Services,Security Services,1,5000.00,5000.00,Pending,Medium,25,Jane Smith,CONTRACT-2012
+ORD-000031,2024-02-14,2024-03-05,Sales,TechCorp Solutions,Hardware,Sales Tablets,10,600.00,6000.00,Completed,Medium,19,Mike Johnson,CONTRACT-3123
+ORD-000032,2024-02-15,2024-03-12,HR,OfficeSupply Co.,Office Supplies,Training Materials,100,35.00,3500.00,Completed,Low,25,Sarah Williams,CONTRACT-4234
+ORD-000033,2024-02-16,2024-03-08,IT,Cloud Services Inc.,Services,IT Support,1,8000.00,8000.00,Completed,High,20,John Doe,CONTRACT-5345
+ORD-000034,2024-02-17,2024-03-15,Marketing,Marketing Pro,Marketing Materials,Event Materials,50,100.00,5000.00,Completed,Medium,26,Jane Smith,CONTRACT-6456
+ORD-000035,2024-02-18,2024-03-10,Operations,Software Systems,Software,Inventory Software,2,3000.00,6000.00,Completed,Medium,20,Mike Johnson,CONTRACT-7567
+ORD-000036,2024-02-19,2024-03-25,Finance,Consulting Group,Services,Audit Services,10,1500.00,15000.00,Completed,High,34,Sarah Williams,CONTRACT-8678
+ORD-000037,2024-02-20,2024-03-12,Legal,Hardware Hub,Hardware,Document Scanners,2,1200.00,2400.00,Completed,Low,20,John Doe,CONTRACT-9789
+ORD-000038,2024-02-21,2024-03-18,IT,TechCorp Solutions,Software,Database Software,3,2000.00,6000.00,Completed,Medium,25,Jane Smith,CONTRACT-0890
+ORD-000039,2024-02-22,2024-03-15,Marketing,OfficeSupply Co.,Office Supplies,Promotional Items,500,8.00,4000.00,Completed,Low,21,Mike Johnson,CONTRACT-1901
+ORD-000040,2024-02-23,2024-03-20,Operations,Facility Management,Services,Pest Control,1,2000.00,2000.00,Completed,Low,25,Sarah Williams,CONTRACT-3012
+ORD-000041,2024-02-24,2024-03-18,Sales,Cloud Services Inc.,Services,Sales Analytics,1,9000.00,9000.00,Completed,High,22,John Doe,CONTRACT-4123
+ORD-000042,2024-02-25,2024-03-22,HR,Software Systems,Software,Payroll Software,1,7000.00,7000.00,Completed,High,25,Jane Smith,CONTRACT-5234
+ORD-000043,2024-02-26,2024-03-15,IT,Hardware Hub,Hardware,Computer Accessories,20,150.00,3000.00,Completed,Low,17,Mike Johnson,CONTRACT-6345
+ORD-000044,2024-02-27,2024-03-25,Marketing,Marketing Pro,Services,Brand Consulting,1,8000.00,8000.00,Completed,Medium,26,Sarah Williams,CONTRACT-7456
+ORD-000045,2024-02-28,2024-03-20,Operations,OfficeSupply Co.,Office Supplies,Packaging Materials,100,20.00,2000.00,Completed,Low,20,John Doe,CONTRACT-8567
+ORD-000046,2024-02-29,2024-03-25,Finance,TechCorp Solutions,Hardware,Financial Calculators,10,200.00,2000.00,Completed,Low,24,Jane Smith,CONTRACT-9678
+ORD-000047,2024-03-01,2024-03-28,Legal,Consulting Group,Services,Compliance Consulting,5,1200.00,6000.00,Completed,Medium,27,Mike Johnson,CONTRACT-0789
+ORD-000048,2024-03-02,2024-03-30,IT,Cloud Services Inc.,Services,Cloud Computing,1,15000.00,15000.00,Completed,High,28,Sarah Williams,CONTRACT-1890
+ORD-000049,2024-03-03,2024-03-25,Marketing,Software Systems,Software,Graphic Design Software,3,1500.00,4500.00,Completed,Medium,22,John Doe,CONTRACT-2901
+ORD-000050,2024-03-04,2024-04-01,Operations,Facility Management,Services,Landscaping,1,3000.00,3000.00,Completed,Low,28,Jane Smith,CONTRACT-4012

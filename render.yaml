@@ -1,0 +1,31 @@
+# Render.com deployment configuration
+# Deploy this to get a live API URL for your resume
+
+services:
+  - type: web
+    name: procurement-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DATABASE_URL
+        value: sqlite:///./procurement.db
+    healthCheckPath: /health
+    autoDeploy: true
+
+# Optional: Deploy Streamlit dashboard on Render too
+  - type: web
+    name: procurement-dashboard
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run dashboard/app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: API_URL
+        value: https://procurement-api.onrender.com  # Update this after first deploy
+    autoDeploy: true
